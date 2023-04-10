@@ -2,14 +2,14 @@
 
 <br>
 
-<img width="1335" alt="Exemplo de pull request" src="exemp.jpeg">
+<img width="900" alt="Exemplo de pull request" src="./images/exemp.jpeg">
 
 # :clipboard: About
 
 Projeto utilizando JavaScript, HTML e CSS para criar uma aplicação dinamica e interativa com paleta de cores. Utilizou tambem o local Storage para salvar o desenho feito no quadro e a possibilidade de mudar o tamanho do mesmo.
 
 
-<img width="1335" alt="Exemplo de pull request" src="nota.png">
+<img width="900" alt="Exemplo de pull request" src="./images/nota.png">
 
 <br>
 
