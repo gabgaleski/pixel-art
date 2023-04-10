@@ -17,10 +17,14 @@ Projeto utilizando JavaScript, HTML e CSS para criar uma aplicação dinamica e 
 # :hammer_and_wrench: Skills & Tools
 
 <details>
-  <summary><strong>- JavaScript ES6</strong></summary><br />
+  <summary><strong>JavaScript ES6</strong></summary><br />
+  
   - DOM
   - Event Listeners
 </details>
-
-- CSS3
-- HTML5
+<details>
+  <summary><strong>HTML5</strong></summary><br />
+</details>
+<details>
+  <summary><strong>CSS3</strong></summary><br />
+</details>
